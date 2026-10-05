@@ -1,0 +1,12 @@
+{
+  "SolSniper": {
+    "version": "2.1.1",
+    "file": "SolSniper.plugin.js",
+    "sig": "vkbIafsCQncfBJ/QWcLIunAT4ubYaDdyO5+im/ago4R1/krKiMvqAoLu47UKeLz1SYL0iGlOs5O9muzOtv+4AA=="
+  },
+  "RobloxDirectLaunch": {
+    "version": "2.1.1",
+    "file": "RobloxDirectLaunch.plugin.js",
+    "sig": "G+dgnlR+/saazVPEwrMJb6KeCftBu+dDrYGFezEuHtKFbALnFBIfY4k5f90BYZdlWSRBda351xY3SBf29+GTBA=="
+  }
+}
