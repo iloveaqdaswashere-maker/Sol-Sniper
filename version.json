@@ -1,12 +1,12 @@
 {
   "SolSniper": {
-    "version": "2.2.1",
+    "version": "2.2.4",
     "file": "SolSniper.plugin.js",
-    "sig": "TpRCYbny5vtb707e7HVvNlJCUqXuf0oOMivaCGIOO/pQDt+9yfuq6zxNsMdC/gjA2dEBTVjRw04E8YBpa+1eCw=="
+    "sig": "LW+k7oxfCEfcJKzV3Vt95PN7nYiSR8uYiamY+nc4VrsftcTRi1YX+PwQSQNDa702z4UUsa5NmcfPcOrIgaAVBw=="
   },
   "RobloxDirectLaunch": {
-    "version": "2.1.1",
+    "version": "2.1.2",
     "file": "RobloxDirectLaunch.plugin.js",
-    "sig": "G+dgnlR+/saazVPEwrMJb6KeCftBu+dDrYGFezEuHtKFbALnFBIfY4k5f90BYZdlWSRBda351xY3SBf29+GTBA=="
+    "sig": "QvhjADheGkTGZWWfycTaJ4DoqvTPVMBytFYMT0DbgGRh9QjSnY3rwY1OwmrETaemcENMWFnA3dmFi23SFVhlCQ=="
   }
 }
